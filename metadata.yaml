@@ -1,0 +1,35 @@
+_repo: Nas-Cinzas_30543
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Melo, Augusto Ernesto de Castilho e
+    gutenberg_agent_id: '34666'
+    url: http://www.gutenberg.org/2009/agents/34666
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berthoud, Eugène
+    aliases:
+    - Borys, Gontran
+    - Berthoud, Eugene
+    birthdate: 1827
+    deathdate: 1872
+    gutenberg_agent_id: '34665'
+    url: http://www.gutenberg.org/2009/agents/34665
+    wikipedia: http://pt.wikipedia.org/wiki/Gontran_Borys
+description: ''
+gutenberg_issued: '2009-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30543'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Nas Cinzas
+url: http://www.gutenberg.org/ebooks/30543
