@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34665
     wikipedia: http://pt.wikipedia.org/wiki/Gontran_Borys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30543#Nas-Cinzas
 gutenberg_issued: '2009-11-25'
 gutenberg_type: Text
 identifiers:
